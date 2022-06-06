@@ -6,6 +6,8 @@ Como usar la API:
 
 2- En PHPMyAdmin crear base de datos llamada netberry
 
-3- usar comando composer install en la carpeta de la api
+3- Usar comando `composer install` en la carpeta de la api para instalar las dependencias.
 
-4- usar comando php artisan serve
+4- Realizar las migraciones de las tablas. Usar comando `php artisan migrate`.
+
+4- Usar comando `php artisan serve` para correr el servidor.
